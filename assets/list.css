@@ -1,0 +1,38 @@
+body {
+  background-color: #EEE;
+  font-family: 'Roboto', sans-serif;
+}
+h2 {
+  text-align: center;
+  padding: 20px 0;
+  color: #333;
+}
+.table {
+  background-color: #FFF;
+}
+.table td:first-child {
+    width: 40px;
+}
+.far {
+  color: #666;
+}
+.fa, .fas, s {
+  color: #CCC;
+}
+.link {
+  width: 100%;
+  color: #333;
+  text-decoration: none;
+  display: block;
+}
+.link:hover {
+  color: #333;
+  text-decoration: none;
+}
+.trash {
+  float: right;
+  display: none;
+}
+.trash:hover i {
+  color: #800;
+}
